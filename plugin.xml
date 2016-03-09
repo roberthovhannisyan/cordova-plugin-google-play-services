@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<plugin id="com.google.play.services" version="25.0.0" xmlns="http://cordova.apache.org/ns/plugins/1.0" >
+<plugin id="cordova-google-play-services" version="25.0.0" xmlns="http://cordova.apache.org/ns/plugins/1.0" >
     <name>Google Play Services for Android</name>
   
     <engines>
